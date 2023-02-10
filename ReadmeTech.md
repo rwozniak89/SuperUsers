@@ -21,4 +21,4 @@ Microsoft.EntityFrameworkCore.SqlServer
 AutoMapper.Extensions.Microsoft.DependencyInjectio
 
 ##Packages Implementation
-Microsoft.AspNetCore.Http.Abstractions
+
